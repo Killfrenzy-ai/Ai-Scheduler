@@ -1,0 +1,30 @@
+# Core LLM + orchestration
+langchain
+langchain-community
+langgraph
+ollama
+
+# Data handling
+pandas
+openpyxl
+pydantic
+
+# Database
+sqlalchemy
+sqlite-utils
+
+# Web & UI
+streamlit
+fastapi
+uvicorn
+ngrok
+
+# APIs & Integrations
+requests
+python-dotenv
+twilio
+calendly-python   # or requests wrapper if not available
+
+# Utils
+tenacity
+Faker
